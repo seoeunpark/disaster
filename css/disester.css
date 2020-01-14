@@ -1,0 +1,85 @@
+body{
+    background-color:  rgb(204, 230, 235);
+}
+
+
+
+
+h4 {
+    color:rgb(167, 58, 30);
+    display:inline-block;
+}
+div.orange {
+  border: 5px solid rgb(207, 95, 30);
+  background-color: aliceblue;
+  padding: 8px;
+  border-radius: 15px; 
+}
+  div.green {
+    border: 5px solid rgb(68, 99, 68);
+    background-color: aliceblue;
+    padding: 8px;
+    border-radius: 15px; 
+  }
+  div.blue {
+    border: 5px solid rgb(75, 75, 148);
+    background-color: aliceblue;
+    padding: 8px;
+    border-radius: 15px;
+  }
+  div.yellow {
+    border: 5px solid rgb(202, 163, 78);
+    background-color: aliceblue;
+    padding: 8px;
+    border-radius: 15px;
+  }
+  div.purple {
+    border: 5px solid rgb(126, 85, 124);
+    background-color: aliceblue;
+    padding: 8px;
+    border-radius: 15px;
+  }
+  div.orange2{
+    background-color: rgb(207, 95, 30);
+    padding: 8px;
+    border-radius: 15px; 
+    color:white;
+    text-align:center;
+    width:400px;
+  }
+  div.green2 {
+    background-color: rgb(68, 99, 68);
+    padding: 8px;
+    border-radius: 15px; 
+    color:white;
+    text-align:center;
+    width:400px;
+  }
+  div.blue2 {
+    background-color: rgb(75, 75, 148);
+    padding: 8px;
+    border-radius: 15px;
+    color:white;
+    text-align:center;
+    width:400px;
+  }
+  div.yellow2 {
+    background-color: rgb(202, 163, 78);
+    padding: 8px;
+    border-radius: 15px;
+    color:white;
+    text-align:center;
+    width:400px;
+  }
+  div.purple2 {
+    background-color:  rgb(126, 85, 124);
+    padding: 8px;
+    border-radius: 15px;
+    color:white;
+    text-align:center;
+    width:400px;
+  }
+
+  
+
+  

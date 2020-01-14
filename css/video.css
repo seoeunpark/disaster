@@ -1,0 +1,13 @@
+.button {
+    background-color: rgb(76, 122, 175);
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  h2{ 
+    color:rgb(35, 63, 46);
+  }

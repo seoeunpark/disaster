@@ -1,0 +1,57 @@
+body {
+    color:blue;
+    font-size: 30px;
+    background-color: lightblue;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-image: url("../image/questionback.png");
+    background-size: 800px 600px;
+    background-position: center; 
+    background-attachment: fixed;
+}
+
+.button1 {
+background-color: rgb(253, 253, 186);
+border: 1px solid lightyellow;
+color: rgb(128, 66, 153);
+padding: 16px 32px;
+text-align: center;
+font-size: 25px;
+margin: 4px 2px;
+cursor: pointer;
+border-radius: 70%;
+border-color: darkgoldenrod;
+}
+.button1:hover {
+background-color: whitesmoke;
+background-color:darkorange;
+color: white;
+}
+.button2{
+    background-color: rgb(24, 167, 143);
+border: 1px solid rgb(1, 80, 80);
+color: rgb(255, 255, 255);
+padding: 16px 32px;
+text-align: center;
+text-decoration: none;
+font-size: 25px;
+margin: 4px 2px;
+cursor: pointer;
+}
+.button2:hover {
+    background-color: whitesmoke;
+    background-color: magenta;
+    color: white;
+    }
+div{   
+background-color: rgb(50, 101, 124);
+border: 1px solid lightgray;
+color: yellow;
+padding: 16px 16px;
+text-align: center;
+text-decoration: none;
+font-size: 25px;
+margin: 8px 8px;
+width: 500px;
+border-radius: 8px;
+}
